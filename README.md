@@ -1,2 +1,2 @@
 # bms-digital-twin
-Lithium-ion BMS digital twin in Python: equivalent circuit modeling, Extended Kalman Filter SOC estimation, active cell balancing, and fault detection for electric-vehicle battery packs. Research paper implementation with published results.
+Python implementation of a lithium-ion battery management system digital twin: first-order Thévenin cell model, Extended Kalman Filter for SOC estimation, active cell balancing, and threshold-based fault detection. Includes a US06-equivalent drive-cycle simulation and reproducible figures. Research paper implementation with published results.
